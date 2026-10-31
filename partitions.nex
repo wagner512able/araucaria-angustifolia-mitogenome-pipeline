@@ -1,0 +1,15 @@
+#nexus
+begin sets;
+	charset atp4 = 1-612;
+	charset atp9 = 613-837;
+	charset ccmb = 838-1462;
+	charset ccmFN = 1463-2880;
+	charset cob = 2881-4074;
+	charset cox3 = 4075-4862;
+	charset nad2 = 4863-5592;
+	charset nad6 = 5593-6197;
+	charset nad7 = 6198-7176;
+	charset nad9 = 7177-7749;
+	charset rpl5 = 7750-8242;
+	charset rps12 = 8243-8614;
+end;
